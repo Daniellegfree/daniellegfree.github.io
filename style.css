@@ -5,10 +5,11 @@ body{
   background-color: #FEC44F;
 }
 
-h1{font-weight: : 900;
+h1{
+  font-weight: : 900;
   font-family: "Lato", sans-serif;
   color:#9A190F;
-  font-size: 26px;
+  font-size: 32px;
 }
 
 h2{
