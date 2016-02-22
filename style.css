@@ -17,3 +17,31 @@ h2{
   color: #9A190F;
   font-size: 26px;
 }
+
+#salsa{
+  width: 50%;
+  padding:15px;
+  box-sizing: border-box;
+  float:left;
+}
+
+#tacos{
+width: 50%;
+padding:15px;
+box-sizing: border-box;
+float:left;
+}
+
+#salsa1{
+  width: 50%;
+  padding:15px;
+  box-sizing: border-box;
+  float:left;
+}
+
+#tacos1{
+  width: 50%;
+  padding:15px;
+  box-sizing: border-box;
+  float:left;
+}
