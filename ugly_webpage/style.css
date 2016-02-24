@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,100,300,900,700);
+
+body{
+  background-color: #3D1C08;
+}
+
+h1{
+color: #584200;
+}
+
+#jabba{
+color:white;
+font-style: italic;
+font-family: "Lato", sans-serif;
+}
+
+#jaws{
+box-sizing: border-box;
+color: blue;
+}
