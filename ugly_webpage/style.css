@@ -79,6 +79,7 @@ font-size: 300%
   font-weight: 500;
   font-size: 70%
 }
+
 #nope{
   word-spacing: 12px;
   width: 12%;
@@ -92,7 +93,6 @@ font-size: 300%
   font-size: 260%;
   position: relative;
   max-width: 100px;
-
 }
 
 #lop{
@@ -108,5 +108,4 @@ font-size: 300%
   font-weight: 900;
   font-size: 150%;
   position: sticky;
-
 }
