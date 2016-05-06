@@ -1,9 +1,34 @@
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two);
+@import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great);
+
 .image{
 margin-right: 20px;
 padding-bottom: 30px;
 padding-top: 15px;
 text-align: center;
+}
 
 #description{
+  text-align:
+}
+
+body{
+  font-family:"Shadows Into Light Two", cursive, sans-serif;
+}
+
+h1{
+  font-family: 'Fredericka the Great', cursive, sans-serif;
+  font-weight: 500;
+  color: #EF4C86;
   text-align: center;
+  font-size: 15em;
+}
+
+h4{
+    font-family: 'Fredericka the Great', cursive, sans-serif;
+    color: #50BE86
+}
+
+.navbar-brand{
+  font-family: 'Fredericka the Great', cursive, sans-serif;
 }
