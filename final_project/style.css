@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two);
 @import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great);
-
+@import url(https://fonts.googleapis.com/css?family=EB+Garamond);
 .image{
 margin-right: 20px;
 padding-bottom: 30px;
@@ -15,6 +15,10 @@ text-align: center;+
 body{
   font-family:"Shadows Into Light Two", cursive, sans-serif;
 }
+.navbar-header{
+  color:  #50BE86;
+  font-size: 30px;
+}
 
 h1{
   font-family: 'Fredericka the Great', cursive, sans-serif;
@@ -25,8 +29,13 @@ h1{
 }
 
 h2{
-  font-family: NEW TEXT??cursive;
+color: #EF4C86;
   font-size: 5em;
+
+}
+h3{  font-family: 'Fredericka the Great', cursive, sans-serif;
+  color: #50BE86;
+  font-size: 2em;
 
 }
 
@@ -39,4 +48,11 @@ h4{
 
 .navbar-brand{
   font-family: 'Fredericka the Great', cursive, sans-serif;
+  font-size: 35px;
+
+}
+
+p{
+font-family: 'EB Garamond', serif;
+font-size: 17px;
 }
