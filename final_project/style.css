@@ -24,9 +24,17 @@ h1{
   font-size: 12em;
 }
 
+h2{
+  font-family: NEW TEXT??cursive;
+  font-size: 5em;
+
+}
+
 h4{
     font-family: 'Fredericka the Great', cursive, sans-serif;
-    color: #50BE86
+    color: #50BE86;
+    font-size: 2em;
+    text-align: center;
 }
 
 .navbar-brand{
